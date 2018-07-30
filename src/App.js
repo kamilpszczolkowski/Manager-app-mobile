@@ -7,6 +7,8 @@ import LoginForm from './components/LoginForm';
 import ReduxThunk from 'redux-thunk';
 import Router from './Router';
 
+console.ignoredYellowBox = ['Setting a timer'];
+
 class App extends Component {
     componentWillMount() {
         const config = {
