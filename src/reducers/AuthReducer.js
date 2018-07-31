@@ -15,8 +15,6 @@ const INITIAL_STATE = {
 }; //
 
 export default (state = INITIAL_STATE, action) => {
-    console.log(action);
-
     switch (action.type) {
         case EMAIL_CHANGED:
             return {...state, email: action.payload}; //It's necessary to cerate new object - don't modify old state and paste it in here
