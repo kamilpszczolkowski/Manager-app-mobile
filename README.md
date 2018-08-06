@@ -44,3 +44,22 @@ Popup appearing when user wants to delete/fire employee.
 
 ![fire employee](img/fireemployee.jpg)
 
+# Purpose and technology
+
+This app was created while progressing through the online React Native and Redux course. It's purpose was to practice
+all new skills acquired.
+
+## JavaScript React-Native
+
+Application is written entirely in react-native environment. Every part of it is built from functional and class
+components. New project is initialized and developed by react-native-cli commands. Android studio was used in order to
+emulate the app on PC - which allowed to refresh the application almost instantly after changing the code.
+
+## Redux
+
+In almost all cases components don't use local state. Thank's to Redux, entire application has global state. Components
+take information from it, change it by action creators and reducers.
+
+## Google Firebase storage/authentication.
+
+
