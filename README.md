@@ -62,4 +62,7 @@ take information from it, change it by action creators and reducers.
 
 ## Google Firebase storage/authentication.
 
-
+Google Firebase API was used in order to create authentication service. User can log in/sign in by email and password
+combination, which is safely stored in firebase database.
+Firebase also has storage functions - it was used to store information about employees. It's protected in the way, which
+won't allow other users to grab data from other databases.
