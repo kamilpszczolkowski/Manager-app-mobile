@@ -20,3 +20,9 @@ Every user has specific set of data:
 * Shift
 
 ![Log In](img/login.jpg)
+![employee list](img/employeelist.jpg)
+![add employee](img/createemployee.jpg)
+![select shift](img/selectshift.jpg)
+![edit employee](img/editemployee.jpg)
+![send SMS](img/sendsms.jpg)
+![fire employee](img/fireemployee.jpg)
