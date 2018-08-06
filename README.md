@@ -31,13 +31,16 @@ Login window and employee list.
 ![employee list](img/employeelist.jpg)
 
 Create employee and shift selector.
+
 ![add employee](img/createemployee.jpg)
 ![select shift](img/selectshift.jpg)
 
 Edit employee window, send SMS feature opening local message app,
+
 ![edit employee](img/editemployee.jpg)
 ![send SMS](img/sendsms.jpg)
 
 Popup appearing when user wants to delete/fire employee.
+
 ![fire employee](img/fireemployee.jpg)
 
