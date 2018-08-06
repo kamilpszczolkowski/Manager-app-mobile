@@ -26,6 +26,7 @@ Every user has specific set of data:
 ## Appearanance
 
 Login window and employee list.
+
 ![Log In](img/login.jpg)
 ![employee list](img/employeelist.jpg)
 
